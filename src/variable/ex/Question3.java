@@ -11,3 +11,5 @@ public class Question3 {
         System.out.println(booleanType);
     }
 }
+
+//패키지도 패키지 않에 폴더가 들어갈수 있다.
