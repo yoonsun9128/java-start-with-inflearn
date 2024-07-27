@@ -1,4 +1,4 @@
-package operate;
+package operator;
 
 public class OperateAdd2 {
     public static void main(String[] args) {
